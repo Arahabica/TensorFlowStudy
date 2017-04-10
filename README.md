@@ -14,7 +14,7 @@ $ bash setup.sh
 * Session, placeholder, Variableなどの基本概念の理解
 * Low Level APIと High Level APIの理解
 
-### [MNIST](./blob/master/doc/mnist.ipynb)
+### [MNIST](./doc/mnist.ipynb)
 
 * 1層のニューラルネットによる学習(accuracy: 91.6%)
 * CNN3層による学習(accuracy: 99.25%)
