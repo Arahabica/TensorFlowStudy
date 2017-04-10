@@ -97,3 +97,5 @@ ENV/
 
 # for TensorBoard
 data/
+
+doc/MNIST_data
